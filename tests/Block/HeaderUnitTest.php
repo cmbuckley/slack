@@ -1,11 +1,9 @@
 <?php
 namespace Slack\Tests\Block;
 
-use InvalidArgumentException;
 use Maknz\Slack\Block\Header;
 use Maknz\Slack\BlockElement\Text;
 use Slack\Tests\TestCase;
-use UnexpectedValueException;
 
 class HeaderUnitTest extends TestCase
 {
